@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JavaAssignment1/1.0.0": {
+        "runtime": {
+          "JavaAssignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JavaAssignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

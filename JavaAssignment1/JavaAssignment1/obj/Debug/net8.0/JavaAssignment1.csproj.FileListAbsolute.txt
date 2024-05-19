@@ -1,0 +1,14 @@
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\bin\Debug\net8.0\JavaAssignment1.exe
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\bin\Debug\net8.0\JavaAssignment1.deps.json
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\bin\Debug\net8.0\JavaAssignment1.runtimeconfig.json
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\bin\Debug\net8.0\JavaAssignment1.dll
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\bin\Debug\net8.0\JavaAssignment1.pdb
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.AssemblyInfoInputs.cache
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.AssemblyInfo.cs
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.dll
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\refint\JavaAssignment1.dll
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.pdb
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\JavaAssignment1.genruntimeconfig.cache
+C:\Users\ellak\source\repos\JavaAssignment1\JavaAssignment1\obj\Debug\net8.0\ref\JavaAssignment1.dll
